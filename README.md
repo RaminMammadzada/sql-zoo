@@ -17,9 +17,9 @@ The goal of this project is to put into practice SQL queries using the online re
 6. [JOIN](JOIN)
 7. [More JOIN Operations](/More_JOIN_Operations)
 8. [Using Null](/Using_Null)
-9. [Numeric_Examples](/Numeric_Examples)
-10. [Window_function](/Window_function)
-11. [Self_join](/Self_join)
+9. [Numeric Examples](/Numeric_Examples)
+10. [Window function](/Window_function)
+11. [Self join](/Self_join)
 
 
 
