@@ -1,5 +1,5 @@
 ## 8. Using Null
-![](../images/Using_Null_pic_1.png)
+![](Using_Null_pic_1.png)
 
 1.List the teachers who have NULL for their department.
 ```sql

@@ -1,6 +1,6 @@
 ## 6. JOIN
 
-![](../images/JOIN_pic_1.png)
+![](JOIN_pic_1.png)
 
 1.Modify it to show the matchid and player name for all goals scored by Germany. To identify German players, check for: teamid = 'GER'
 ```sql
@@ -107,7 +107,7 @@ GROUP BY matchid, mdate;
 ```
 
 13.List every match with the goals scored by each team as shown. This will use "CASE WHEN" which has not been explained in any previous exercises.
-![](images/JOIN_pic_2.png)
+![](JOIN_pic_2.png)
 
 Notice in the query given every goal is listed. If it was a team1 goal then a 1 appears in score1, otherwise there is a 0. You could SUM this column to get a count of the goals scored by team1. 
 **Sort your result by mdate, matchid, team1 and team2.**

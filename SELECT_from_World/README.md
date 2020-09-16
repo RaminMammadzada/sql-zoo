@@ -1,5 +1,5 @@
 ## 2. SELECT From World
-![](../images/SELECT_from_WORLD_pic_1.png)
+![](SELECT_from_WORLD_pic_1.png)
 
 1.Read the notes about this table. Observe the result of running this SQL command to show the name, continent and population of all countries.
 ```sql
