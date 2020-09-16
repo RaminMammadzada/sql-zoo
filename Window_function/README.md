@@ -1,5 +1,5 @@
 ## 10. Numeric Examples
-![](../images/Window_function_pic_1.png)
+![](Window_function_pic_1.png)
 
 
 1.Show the lastName, party and votes for the constituency 'S14000024' in 2017.

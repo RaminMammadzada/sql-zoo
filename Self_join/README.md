@@ -1,5 +1,5 @@
 ## 11. Self join
-![](../images/Self_join_pic_1.png)
+![](Self_join_pic_1.png)
 
 1.How many stops are in the database.
 

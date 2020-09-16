@@ -1,5 +1,5 @@
 ## 1. SELECT Name
-![](../images/SELECT_names_pic_1.png)
+![](SELECT_names_pic_1.png)
 
 1.Find the country that start with Y
 ```sql

@@ -1,6 +1,6 @@
 ## 0. SELECT Basics
 
-![](../images/SELECT_basics_pic_1.png)
+![](SELECT_basics_pic_1.png)
 
 1.Show the population of Germany.
 

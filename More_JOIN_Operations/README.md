@@ -1,5 +1,5 @@
 ## 7. More JOIN Operations
-![](../images/More_JOIN_pic_1.png)
+![](More_JOIN_pic_1.png)
 
 1.List the films where the yr is 1962 [Show id, title]
 ```sql

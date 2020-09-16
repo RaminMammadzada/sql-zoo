@@ -1,5 +1,5 @@
 ## 3. SELECT From Nobel
-![](images/SELECT_from_Nobel_pic_1.png)
+![](SELECT_from_Nobel_pic_1.png)
 
 1.Change the query shown so that it displays Nobel prizes for 1950.
 ```sql

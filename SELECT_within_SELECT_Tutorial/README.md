@@ -1,5 +1,5 @@
 ## 4. SELECT within SELECT Tutorial
-![](../images/SELECT_within_SELECT_pic_1.png)
+![](SELECT_within_SELECT_pic_1.png)
 
 1.List each country name where the population is larger than that of 'Russia'.
 ```sql

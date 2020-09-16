@@ -1,5 +1,5 @@
 ## 5. SUM and COUNT
-![](../images/SUM_and_COUNT_pic_1.png)
+![](SUM_and_COUNT_pic_1.png)
 
 1.Show the total population of the world.
 ```sql
