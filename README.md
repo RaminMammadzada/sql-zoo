@@ -19,7 +19,6 @@ The goal of this project is to put into practice SQL queries using the online re
 8. [Using Null](/Using_Null)
 9. [Numeric_Examples](/Numeric_Examples)
 10. [Window_function](/Window_function)
-11. [COVID_19](/COVID_19)
 11. [Self_join](/Self_join)
 
 
