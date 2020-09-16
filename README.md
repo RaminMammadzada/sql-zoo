@@ -12,7 +12,7 @@ The goal of this project is to put into practice SQL queries using the online re
 4. [SELECT within SELECT Tutorial](#4-select-within-select-tutorial)
 5. [SUM and COUNT](#5-sum-and-count)
 6. [JOIN](#6-join)
-6. [JOIN](JOIN/JOIN.md)
+6. [JOIN](JOIN/)
 7. [More JOIN Operations](#7-more-join-operations)
 8. [Using Null](#8-using-null)
 9. [Numberic_Examples](#9-numeric-examples)
