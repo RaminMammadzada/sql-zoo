@@ -13,9 +13,12 @@ The goal of this project is to put into practice SQL queries using the online re
 5. [SUM and COUNT](#5-sum-and-count)
 6. [JOIN](#6-join)
 7. [More JOIN Operations](#7-more-join-operations)
-8. [Using Null](#7-using-null)
+8. [Using Null](#8-using-null)
+9. [Numberic_Examples](#9-numeric-examples)
 
 ## 0. SELECT Basics
+
+![](images/SELECT_basics_pic_1.png)
 
 1.Show the population of Germany.
 
@@ -40,6 +43,7 @@ WHERE area BETWEEN 200000 AND 250000;
 ```
 
 ## 1. SELECT Name
+![](images/SELECT_names_pic_1.png)
 
 1.Find the country that start with Y
 ```sql
@@ -142,6 +146,7 @@ WHERE capital LIKE concat(name, '_%');
 ```
 
 ## 2. SELECT From World
+![](images/SELECT_from_WORLD_pic_1.png)
 
 1.Read the notes about this table. Observe the result of running this SQL command to show the name, continent and population of all countries.
 ```sql
@@ -254,6 +259,8 @@ WHERE name LIKE '%a%' AND
 ```
 
 ## 3. SELECT From Nobel
+![](images/SELECT_from_Nobel_pic_1.png)
+
 1.Change the query shown so that it displays Nobel prizes for 1950.
 ```sql
 SELECT yr, subject, winner
@@ -368,6 +375,7 @@ SELECT winner, subject
 ````
 
 ## 4. SELECT within SELECT Tutorial
+![](images/SELECT_within_SELECT_pic_1.png)
 
 1.List each country name where the population is larger than that of 'Russia'.
 ```sql
@@ -454,6 +462,8 @@ WHERE x.population/3 > ALL (
 ```
 
 ## 5. SUM and COUNT
+![](images/SUM_and_COUNT_pic_1.png)
+
 1.Show the total population of the world.
 ```sql
 SELECT SUM(population)
@@ -846,4 +856,18 @@ SELECT name,
            ELSE 'None'
        END
 FROM teacher;
+```
+
+## 9. Numeric Examples
+![](images/Numeric_Examples_pic_1.png)
+
+1.The example shows the number who responded for:
+
+- question 1
+- at 'Edinburgh Napier University'
+- studying '(8) Computer Science'
+Show the the percentage who STRONGLY AGREE
+
+```sql
+
 ```
